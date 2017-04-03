@@ -1,0 +1,19 @@
+D:\Users\MYSALAD\Documents\Turn based\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\Users\MYSALAD\Documents\Turn based\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\Users\MYSALAD\Documents\Turn based\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Users\MYSALAD\Documents\Turn based\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+D:\Users\MYSALAD\Documents\Turn based\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Users\MYSALAD\Documents\Turn based\Temp\UnityVS_bin\Debug\UnityEngine.HoloLens.dll
+D:\Users\MYSALAD\Documents\Turn based\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+D:\Users\MYSALAD\Documents\Turn based\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\Users\MYSALAD\Documents\Turn based\Temp\UnityVS_bin\Debug\UnityEngine.VR.dll
+D:\Users\MYSALAD\Documents\Turn based\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Users\MYSALAD\Documents\Turn based\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\Users\MYSALAD\Documents\Turn based\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+D:\Users\MYSALAD\Documents\Turn based\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+D:\Users\MYSALAD\Documents\Turn based\Temp\UnityVS_bin\Debug\UnityEngine.HoloLens.xml
+D:\Users\MYSALAD\Documents\Turn based\Temp\UnityVS_bin\Debug\UnityEngine.VR.xml
+D:\Users\MYSALAD\Documents\Turn based\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Users\MYSALAD\Documents\Turn based\Temp\UnityVS_obj\Debug\Turn based.csprojResolveAssemblyReference.cache
+D:\Users\MYSALAD\Documents\Turn based\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+D:\Users\MYSALAD\Documents\Turn based\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
